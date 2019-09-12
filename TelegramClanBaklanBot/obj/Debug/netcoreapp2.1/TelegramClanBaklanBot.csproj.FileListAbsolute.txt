@@ -1,0 +1,11 @@
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\bin\Debug\netcoreapp2.1\TelegramClanBaklanBot.deps.json
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\bin\Debug\netcoreapp2.1\TelegramClanBaklanBot.runtimeconfig.json
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\bin\Debug\netcoreapp2.1\TelegramClanBaklanBot.runtimeconfig.dev.json
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\bin\Debug\netcoreapp2.1\TelegramClanBaklanBot.dll
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\obj\Debug\netcoreapp2.1\TelegramClanBaklanBot.csprojAssemblyReference.cache
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\obj\Debug\netcoreapp2.1\TelegramClanBaklanBot.csproj.CoreCompileInputs.cache
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\obj\Debug\netcoreapp2.1\TelegramClanBaklanBot.AssemblyInfoInputs.cache
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\obj\Debug\netcoreapp2.1\TelegramClanBaklanBot.AssemblyInfo.cs
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\bin\Debug\netcoreapp2.1\TelegramClanBaklanBot.pdb
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\obj\Debug\netcoreapp2.1\TelegramClanBaklanBot.dll
+C:\Users\endless suffering\source\repos\TelegramClanBaklanBot\TelegramClanBaklanBot\obj\Debug\netcoreapp2.1\TelegramClanBaklanBot.pdb
